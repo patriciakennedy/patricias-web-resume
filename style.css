@@ -14,7 +14,6 @@ body {
   margin: 0;
 }
 
-
 /* Container -> style and center */
 .container {
   width: 90%;
@@ -28,6 +27,10 @@ body {
 header {
   text-align: center;
   margin: 20px;
+}
+
+.statement {
+   margin: 25px 0 25px 20px;
 }
 
 .experience,
@@ -66,21 +69,19 @@ h3,
   margin-left: 15px;
 }
 
-.relevant-courses{
-	margin-left: 15px;
+.relevant-courses {
+  margin-left: 15px;
 }
-
 
 .experience-right p {
-	margin-right: 15px;
-	font-weight: 600;
-	font-size: 14px;
+  margin-right: 15px;
+  font-weight: 600;
+  font-size: 14px;
 }
 
-
 .courses {
- font-weight: bold;
- font-size: 14px;
+  font-weight: bold;
+  font-size: 14px;
 }
 
 footer {
@@ -95,13 +96,11 @@ footer {
     padding: 10px;
   }
 
-	h4 {
-		font-size: 14px;
-	}
+  h4 {
+    font-size: 14px;
+  }
 
-	h3 {
-		font-size: 18px;
-	}
-
-	
+  h3 {
+    font-size: 18px;
+  }
 }
